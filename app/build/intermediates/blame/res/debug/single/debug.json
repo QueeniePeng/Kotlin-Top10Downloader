@@ -900,6 +900,10 @@
         "source": "/Users/queeniepeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec0141c60ee470c0ff476687a12d787c/res/layout/abc_action_mode_bar.xml"
     },
     {
+        "merged": "/Users/queeniepeng/Documents/Development/Android/Kotlin/Top10Downloader/app/build/intermediates/res/merged/debug/layout_list_record.xml.flat",
+        "source": "/Users/queeniepeng/Documents/Development/Android/Kotlin/Top10Downloader/app/src/main/res/layout/list_record.xml"
+    },
+    {
         "merged": "/Users/queeniepeng/Documents/Development/Android/Kotlin/Top10Downloader/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "/Users/queeniepeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec0141c60ee470c0ff476687a12d787c/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
@@ -1562,6 +1566,10 @@
     {
         "merged": "/Users/queeniepeng/Documents/Development/Android/Kotlin/Top10Downloader/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
         "source": "/Users/queeniepeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec0141c60ee470c0ff476687a12d787c/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/queeniepeng/Documents/Development/Android/Kotlin/Top10Downloader/app/build/intermediates/res/merged/debug/menu_feeds_menu.xml.flat",
+        "source": "/Users/queeniepeng/Documents/Development/Android/Kotlin/Top10Downloader/app/src/main/res/menu/feeds_menu.xml"
     },
     {
         "merged": "/Users/queeniepeng/Documents/Development/Android/Kotlin/Top10Downloader/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
